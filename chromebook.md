@@ -37,6 +37,6 @@ sudo apt install -y nodejs
 ### Git
 
 ```
-git config --global user.email "メールアドレス"
-git config --global user.name "名前"
+git config --global user.email ibaramenano@gmail.com
+git config --global user.name ibaramenano
 ```
